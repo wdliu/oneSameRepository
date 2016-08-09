@@ -94,17 +94,17 @@
     <elementParameter field="TEXT" name="FOOTER_LIBRARY" value="" show="false"/>
     <elementParameter field="TEXT" name="FOOTER_CODE" value="" show="false"/>
     <elementParameter field="TEXT" name="FOOTER_IMPORT" value="" show="false"/>
-    <routinesParameter id="_2J1nIE_oEeaBX7nIEKGP0g" name="DataOperation"/>
-    <routinesParameter id="_2J21QE_oEeaBX7nIEKGP0g" name="Mathematical"/>
-    <routinesParameter id="_2J4DYE_oEeaBX7nIEKGP0g" name="Numeric"/>
-    <routinesParameter id="_2J5RgE_oEeaBX7nIEKGP0g" name="Relational"/>
-    <routinesParameter id="_2J-KAE_oEeaBX7nIEKGP0g" name="SQLike"/>
-    <routinesParameter id="_2J54kE_oEeaBX7nIEKGP0g" name="StringHandling"/>
-    <routinesParameter id="_2J7GsE_oEeaBX7nIEKGP0g" name="TalendDataGenerator"/>
-    <routinesParameter id="_2J8U0E_oEeaBX7nIEKGP0g" name="TalendDate"/>
-    <routinesParameter id="_2J874E_oEeaBX7nIEKGP0g" name="TalendString"/>
+    <routinesParameter id="_u0gYUk_oEeaBX7nIEKGP0g" name="DataOperation"/>
+    <routinesParameter id="_u0kCsE_oEeaBX7nIEKGP0g" name="Mathematical"/>
+    <routinesParameter id="_u0me8E_oEeaBX7nIEKGP0g" name="Numeric"/>
+    <routinesParameter id="_u0o7ME_oEeaBX7nIEKGP0g" name="Relational"/>
+    <routinesParameter id="_u02WkE_oEeaBX7nIEKGP0g" name="SQLike"/>
+    <routinesParameter id="_u0rXcE_oEeaBX7nIEKGP0g" name="StringHandling"/>
+    <routinesParameter id="_u0tzsE_oEeaBX7nIEKGP0g" name="TalendDataGenerator"/>
+    <routinesParameter id="_u0w3AE_oEeaBX7nIEKGP0g" name="TalendDate"/>
+    <routinesParameter id="_u0zTQE_oEeaBX7nIEKGP0g" name="TalendString"/>
   </parameters>
-  <node componentName="tLogRow" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="128" posY="96">
+  <node componentName="tLogRow" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="160" posY="128">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tLogRow_1" show="false"/>
     <elementParameter field="RADIO" name="BASIC_MODE" value="true"/>
     <elementParameter field="RADIO" name="TABLE_PRINT" value="false"/>
