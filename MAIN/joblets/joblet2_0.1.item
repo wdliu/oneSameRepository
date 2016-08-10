@@ -72,6 +72,7 @@
       <routinesParameter id="_u0tzsE_oEeaBX7nIEKGP0g" name="TalendDataGenerator"/>
       <routinesParameter id="_u0w3AE_oEeaBX7nIEKGP0g" name="TalendDate"/>
       <routinesParameter id="_u0zTQE_oEeaBX7nIEKGP0g" name="TalendString"/>
+      <routinesParameter id="_t-PDYF6pEeamvchUivTVMA" name="MDM"/>
     </parameters>
     <subjob>
       <elementParameter field="TEXT" name="UNIQUE_NAME" value="INPUT_1" show="false"/>
