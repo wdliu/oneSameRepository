@@ -722,3 +722,5 @@
  ---=== Start Migration of project main ===---
  * Task [Remove routine folder] : Nothing to do
  * Task [Change xmi serialization] : Nothing to do
+ * Task [Clean all folders from project] : Applied successfully
+ * Task [Remove the use of bin folder.] : Applied successfully
