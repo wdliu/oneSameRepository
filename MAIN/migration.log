@@ -716,3 +716,6 @@
  * Task [AddDefaultVersionValueForElasticsearchLookupInput] : Applied successfully
  * Task [AutoUpdateRelationsMigrationTask] : Applied successfully
  ---=== End of migration ===---
+ ---=== Start Migration of project main ===---
+ * Task [Remove routine folder] : Nothing to do
+ * Task [Change xmi serialization] : Nothing to do
