@@ -95,6 +95,7 @@
     <elementParameter field="TEXT" name="FOOTER_CODE" value="" show="false"/>
     <elementParameter field="TEXT" name="FOOTER_IMPORT" value="" show="false"/>
     <routinesParameter id="_u0gYUk_oEeaBX7nIEKGP0g" name="DataOperation"/>
+    <routinesParameter id="_t-PDYF6pEeamvchUivTVMA" name="MDM"/>
     <routinesParameter id="_u0kCsE_oEeaBX7nIEKGP0g" name="Mathematical"/>
     <routinesParameter id="_u0me8E_oEeaBX7nIEKGP0g" name="Numeric"/>
     <routinesParameter id="_u0o7ME_oEeaBX7nIEKGP0g" name="Relational"/>
