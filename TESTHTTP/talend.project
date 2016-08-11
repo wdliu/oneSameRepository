@@ -7,6 +7,17 @@
     <documentationStatus xmi:id="_ec9noF-KEeavD5vTkef5LA" label="unchecked" code="UCK"/>
     <documentationStatus xmi:id="_ec9noV-KEeavD5vTkef5LA" label="checked" code="CHK"/>
     <documentationStatus xmi:id="_ec9nol-KEeavD5vTkef5LA" label="validated" code="VAL"/>
+    <ItemsRelations xmi:id="_BneCAF-VEea2rZZchTsPow">
+      <baseItem xmi:id="_BneCAV-VEea2rZZchTsPow" id="_nuLIwF-UEea2rZZchTsPow" version="0.1" type="job"/>
+      <relatedItems xmi:id="_BneCAl-VEea2rZZchTsPow" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_BneCA1-VEea2rZZchTsPow" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_BneCBF-VEea2rZZchTsPow" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_BneCBV-VEea2rZZchTsPow" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_BneCBl-VEea2rZZchTsPow" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_BnepEF-VEea2rZZchTsPow" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_BnepEV-VEea2rZZchTsPow" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_BnepEl-VEea2rZZchTsPow" id="Mathematical" version="Latest" type="routine"/>
+    </ItemsRelations>
     <migrationTask xmi:id="_ecXxwF-KEeavD5vTkef5LA" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_ecXxwV-KEeavD5vTkef5LA" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_ecXxwl-KEeavD5vTkef5LA" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
