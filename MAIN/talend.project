@@ -7,66 +7,6 @@
     <documentationStatus xmi:id="_uzN-4E_oEeaBX7nIEKGP0g" label="unchecked" code="UCK"/>
     <documentationStatus xmi:id="_uzN-4U_oEeaBX7nIEKGP0g" label="checked" code="CHK"/>
     <documentationStatus xmi:id="_uzN-4k_oEeaBX7nIEKGP0g" label="validated" code="VAL"/>
-    <ItemsRelations xmi:id="_DWjnsGBeEeaYL8o3ZyySqQ">
-      <baseItem xmi:id="_DWjnsWBeEeaYL8o3ZyySqQ" id="_wDa4kFR0Eeam1swrXQ2ulQ" version="0.1" type="job"/>
-      <relatedItems xmi:id="_DWjnsmBeEeaYL8o3ZyySqQ" id="SQLike" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjns2BeEeaYL8o3ZyySqQ" id="Numeric" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjntGBeEeaYL8o3ZyySqQ" id="Relational" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjntWBeEeaYL8o3ZyySqQ" id="TalendString" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjntmBeEeaYL8o3ZyySqQ" id="DataOperation" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjnt2BeEeaYL8o3ZyySqQ" id="StringHandling" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjnuGBeEeaYL8o3ZyySqQ" id="TalendDataGenerator" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjnuWBeEeaYL8o3ZyySqQ" id="TalendDate" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjnumBeEeaYL8o3ZyySqQ" id="Mathematical" version="Latest" type="routine"/>
-    </ItemsRelations>
-    <ItemsRelations xmi:id="_DWjnu2BeEeaYL8o3ZyySqQ">
-      <baseItem xmi:id="_DWjnvGBeEeaYL8o3ZyySqQ" id="_df8iEFSPEeaNTIDU_TU5Dw" version="0.1" type="joblet"/>
-      <relatedItems xmi:id="_DWjnvWBeEeaYL8o3ZyySqQ" id="SQLike" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjnvmBeEeaYL8o3ZyySqQ" id="Numeric" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjnv2BeEeaYL8o3ZyySqQ" id="Relational" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjnwGBeEeaYL8o3ZyySqQ" id="TalendString" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjnwWBeEeaYL8o3ZyySqQ" id="DataOperation" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjnwmBeEeaYL8o3ZyySqQ" id="StringHandling" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjnw2BeEeaYL8o3ZyySqQ" id="TalendDataGenerator" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjnxGBeEeaYL8o3ZyySqQ" id="TalendDate" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjnxWBeEeaYL8o3ZyySqQ" id="Mathematical" version="Latest" type="routine"/>
-    </ItemsRelations>
-    <ItemsRelations xmi:id="_DWjnxmBeEeaYL8o3ZyySqQ">
-      <baseItem xmi:id="_DWjnx2BeEeaYL8o3ZyySqQ" id="_ZKuOQFSPEeaNTIDU_TU5Dw" version="0.1" type="joblet"/>
-      <relatedItems xmi:id="_DWjnyGBeEeaYL8o3ZyySqQ" id="SQLike" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjnyWBeEeaYL8o3ZyySqQ" id="Numeric" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjnymBeEeaYL8o3ZyySqQ" id="Relational" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjny2BeEeaYL8o3ZyySqQ" id="TalendString" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjnzGBeEeaYL8o3ZyySqQ" id="DataOperation" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjnzWBeEeaYL8o3ZyySqQ" id="StringHandling" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjnzmBeEeaYL8o3ZyySqQ" id="TalendDataGenerator" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjnz2BeEeaYL8o3ZyySqQ" id="TalendDate" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjn0GBeEeaYL8o3ZyySqQ" id="Mathematical" version="Latest" type="routine"/>
-    </ItemsRelations>
-    <ItemsRelations xmi:id="_DWjn0WBeEeaYL8o3ZyySqQ">
-      <baseItem xmi:id="_DWjn0mBeEeaYL8o3ZyySqQ" id="_jP_OEFSPEeaNTIDU_TU5Dw" version="0.1" type="joblet"/>
-      <relatedItems xmi:id="_DWjn02BeEeaYL8o3ZyySqQ" id="SQLike" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjn1GBeEeaYL8o3ZyySqQ" id="Numeric" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjn1WBeEeaYL8o3ZyySqQ" id="Relational" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjn1mBeEeaYL8o3ZyySqQ" id="TalendString" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjn12BeEeaYL8o3ZyySqQ" id="DataOperation" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjn2GBeEeaYL8o3ZyySqQ" id="StringHandling" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjn2WBeEeaYL8o3ZyySqQ" id="TalendDataGenerator" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjn2mBeEeaYL8o3ZyySqQ" id="TalendDate" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjn22BeEeaYL8o3ZyySqQ" id="Mathematical" version="Latest" type="routine"/>
-    </ItemsRelations>
-    <ItemsRelations xmi:id="_DWjn3GBeEeaYL8o3ZyySqQ">
-      <baseItem xmi:id="_DWjn3WBeEeaYL8o3ZyySqQ" id="_EZ4lUE_pEeaBX7nIEKGP0g" version="0.1" type="job"/>
-      <relatedItems xmi:id="_DWjn3mBeEeaYL8o3ZyySqQ" id="SQLike" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjn32BeEeaYL8o3ZyySqQ" id="Numeric" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjn4GBeEeaYL8o3ZyySqQ" id="Relational" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjn4WBeEeaYL8o3ZyySqQ" id="TalendString" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjn4mBeEeaYL8o3ZyySqQ" id="DataOperation" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjn42BeEeaYL8o3ZyySqQ" id="StringHandling" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjn5GBeEeaYL8o3ZyySqQ" id="TalendDataGenerator" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjn5WBeEeaYL8o3ZyySqQ" id="TalendDate" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_DWjn5mBeEeaYL8o3ZyySqQ" id="Mathematical" version="Latest" type="routine"/>
-    </ItemsRelations>
     <migrationTask href="#_uwA54E_oEeaBX7nIEKGP0g"/>
     <migrationTask href="#_uwA54U_oEeaBX7nIEKGP0g"/>
     <migrationTask href="#_uwA54k_oEeaBX7nIEKGP0g"/>
