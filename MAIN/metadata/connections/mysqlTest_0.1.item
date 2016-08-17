@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_xgIrUGQkEea_lYAxCR_MeA" name="mysqlTest" id="_TmIVsGQkEea_lYAxCR_MeA" label="mysqlTest" dataPackage="_xh8CIGQkEea_lYAxCR_MeA" DatabaseType="MySQL" DriverClass="org.gjt.mm.mysql.Driver" URL="jdbc:mysql://localhost:3306/test?noDatetimeStringSync=true" dbVersionString="MYSQL_5" Port="3306" Username="root" Password="NZNgK6DuncI=" ServerName="localhost" DatasourceName="" FileFieldName="" SID="test" SqlSynthax="SQL Syntax" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_xgKggGQkEea_lYAxCR_MeA" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_xg9xwGQkEea_lYAxCR_MeA" tag="package filter" value=""/>
+    <taggedValue xmi:id="_xhkOsGQkEea_lYAxCR_MeA" tag="Status" value=""/>
+    <taggedValue xmi:id="_xhkOsWQkEea_lYAxCR_MeA" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_xhkOsmQkEea_lYAxCR_MeA" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_xhkOs2QkEea_lYAxCR_MeA" tag="Description" value=""/>
+    <taggedValue xmi:id="_xhkOtGQkEea_lYAxCR_MeA" tag="Author" value=""/>
+    <taggedValue xmi:id="_xhkOtWQkEea_lYAxCR_MeA" tag="otherParameter"/>
+    <taggedValue xmi:id="_xhn5EGQkEea_lYAxCR_MeA" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_xhn5EWQkEea_lYAxCR_MeA" tag="DB ProductVersion" value="5.6.21-enterprise-commercial-advanced-log"/>
+    <taggedValue xmi:id="_xhn5EmQkEea_lYAxCR_MeA" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_xgKggWQkEea_lYAxCR_MeA" key="CONN_PARA_KEY_USERNAME" value="root"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_xh8CIGQkEea_lYAxCR_MeA" name="test" dataManager="_xgIrUGQkEea_lYAxCR_MeA"/>
+</xmi:XMI>
