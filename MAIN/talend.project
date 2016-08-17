@@ -80,6 +80,8 @@
       <relatedItems xmi:id="_jCPZv2BiEeaNs4nyY_yUWA" id="TalendDataGenerator" version="Latest" type="routine"/>
       <relatedItems xmi:id="_jCPZwGBiEeaNs4nyY_yUWA" id="TalendDate" version="Latest" type="routine"/>
       <relatedItems xmi:id="_jCPZwWBiEeaNs4nyY_yUWA" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_OvYtkGRCEea7Ut7jvxy4Sw" id="_TmIVsGQkEea_lYAxCR_MeA" version="Latest" type="property"/>
+      <relatedItems xmi:id="_OvYtkWRCEea7Ut7jvxy4Sw" id="_TmIVsGQkEea_lYAxCR_MeA - test" version="Latest" type="schema"/>
     </ItemsRelations>
     <migrationTask href="#_uwA54E_oEeaBX7nIEKGP0g"/>
     <migrationTask href="#_uwA54U_oEeaBX7nIEKGP0g"/>
