@@ -82,18 +82,6 @@
         <elementParameter xmi:id="_qmRaUmRVEeakG7kBWeI9hw" field="TECHNICAL" name="PROPERTY_TYPE_IMPLICIT_CONTEXT:REPOSITORY_PROPERTY_TYPE" value="" contextMode="false"/>
       </parameters>
     </implicitContextSettings>
-    <ItemsRelations xmi:id="_jCPZgGBiEeaNs4nyY_yUWA">
-      <baseItem xmi:id="_jCPZgWBiEeaNs4nyY_yUWA" id="_wDa4kFR0Eeam1swrXQ2ulQ" version="0.1" type="job"/>
-      <relatedItems xmi:id="_jCPZgmBiEeaNs4nyY_yUWA" id="SQLike" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_jCPZg2BiEeaNs4nyY_yUWA" id="Numeric" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_jCPZhGBiEeaNs4nyY_yUWA" id="Relational" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_jCPZhWBiEeaNs4nyY_yUWA" id="TalendString" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_jCPZhmBiEeaNs4nyY_yUWA" id="DataOperation" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_jCPZh2BiEeaNs4nyY_yUWA" id="StringHandling" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_jCPZiGBiEeaNs4nyY_yUWA" id="TalendDataGenerator" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_jCPZiWBiEeaNs4nyY_yUWA" id="TalendDate" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_jCPZimBiEeaNs4nyY_yUWA" id="Mathematical" version="Latest" type="routine"/>
-    </ItemsRelations>
     <ItemsRelations xmi:id="_jCPZi2BiEeaNs4nyY_yUWA">
       <baseItem xmi:id="_jCPZjGBiEeaNs4nyY_yUWA" id="_j-MoQGBeEeaYL8o3ZyySqQ" version="0.1" type="job"/>
       <relatedItems xmi:id="_jCPZjWBiEeaNs4nyY_yUWA" id="SQLike" version="Latest" type="routine"/>
