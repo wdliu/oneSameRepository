@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_qNOEAGT4Eea-DL4lzzDfSw" name="MysqlTest2" id="_kd04QGT4Eea-DL4lzzDfSw" label="MysqlTest2" dataPackage="_qN29MGT4Eea-DL4lzzDfSw" DatabaseType="MySQL" DriverClass="org.gjt.mm.mysql.Driver" URL="jdbc:mysql://localhost:3306/test?noDatetimeStringSync=true" dbVersionString="MYSQL_5" Port="3306" Username="root" Password="NZNgK6DuncI=" ServerName="localhost" DatasourceName="" FileFieldName="" SID="test" SqlSynthax="SQL Syntax" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_qNRHUGT4Eea-DL4lzzDfSw" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_qNo6wGT4Eea-DL4lzzDfSw" tag="package filter" value=""/>
+    <taggedValue xmi:id="_qNtMMGT4Eea-DL4lzzDfSw" tag="Status" value=""/>
+    <taggedValue xmi:id="_qNtMMWT4Eea-DL4lzzDfSw" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_qNtMMmT4Eea-DL4lzzDfSw" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_qNtMM2T4Eea-DL4lzzDfSw" tag="Description" value=""/>
+    <taggedValue xmi:id="_qNtMNGT4Eea-DL4lzzDfSw" tag="Author" value=""/>
+    <taggedValue xmi:id="_qNtMNWT4Eea-DL4lzzDfSw" tag="otherParameter"/>
+    <taggedValue xmi:id="_qNwPgGT4Eea-DL4lzzDfSw" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_qNwPgWT4Eea-DL4lzzDfSw" tag="DB ProductVersion" value="5.6.21-enterprise-commercial-advanced-log"/>
+    <taggedValue xmi:id="_qNwPgmT4Eea-DL4lzzDfSw" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_qNRHUWT4Eea-DL4lzzDfSw" key="CONN_PARA_KEY_USERNAME" value="root"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_qN29MGT4Eea-DL4lzzDfSw" name="test" dataManager="_qNOEAGT4Eea-DL4lzzDfSw"/>
+</xmi:XMI>
