@@ -286,6 +286,20 @@
       <relatedItems xmi:id="_vauUy2UmEeaqePSlH7wb2A" id="Mathematical" version="Latest" type="routine"/>
       <relatedItems xmi:id="_vauUzGUmEeaqePSlH7wb2A" id="_TmIVsGQkEea_lYAxCR_MeA - test" version="Latest" type="schema"/>
     </ItemsRelations>
+    <ItemsRelations xmi:id="_Irl8EGUnEeaqePSlH7wb2A">
+      <baseItem xmi:id="_Irl8EWUnEeaqePSlH7wb2A" id="_GkIgUGUnEeaqePSlH7wb2A" version="0.1" type="job"/>
+      <relatedItems xmi:id="_Irl8EmUnEeaqePSlH7wb2A" id="_TmIVsGQkEea_lYAxCR_MeA" version="Latest" type="property"/>
+      <relatedItems xmi:id="_Irl8E2UnEeaqePSlH7wb2A" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_Irl8FGUnEeaqePSlH7wb2A" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_Irl8FWUnEeaqePSlH7wb2A" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_Irl8FmUnEeaqePSlH7wb2A" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_Irl8F2UnEeaqePSlH7wb2A" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_Irl8GGUnEeaqePSlH7wb2A" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_Irl8GWUnEeaqePSlH7wb2A" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_Irl8GmUnEeaqePSlH7wb2A" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_Irl8G2UnEeaqePSlH7wb2A" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_Irl8HGUnEeaqePSlH7wb2A" id="_TmIVsGQkEea_lYAxCR_MeA - test" version="Latest" type="schema"/>
+    </ItemsRelations>
     <migrationTask href="#_uwA54E_oEeaBX7nIEKGP0g"/>
     <migrationTask href="#_uwA54U_oEeaBX7nIEKGP0g"/>
     <migrationTask href="#_uwA54k_oEeaBX7nIEKGP0g"/>
