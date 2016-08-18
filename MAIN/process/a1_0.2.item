@@ -106,7 +106,7 @@
     <routinesParameter id="_u0w3AE_oEeaBX7nIEKGP0g" name="TalendDate"/>
     <routinesParameter id="_u0zTQE_oEeaBX7nIEKGP0g" name="TalendString"/>
   </parameters>
-  <node componentName="tMysqlInput" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="352" posY="160">
+  <node componentName="tMysqlInput" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="416" posY="160">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tMysqlInput_1" show="false"/>
     <elementParameter field="TECHNICAL" name="PROPERTY:PROPERTY_TYPE" value="REPOSITORY"/>
     <elementParameter field="TECHNICAL" name="PROPERTY:REPOSITORY_PROPERTY_TYPE" value="_TmIVsGQkEea_lYAxCR_MeA" show="false"/>
