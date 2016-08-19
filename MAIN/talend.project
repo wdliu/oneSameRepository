@@ -1159,8 +1159,27 @@
     <migrationTask href="#_nmmZQWW3EeakJJRWNovuDw"/>
     <migrationTask href="#_nmmZQmW3EeakJJRWNovuDw"/>
     <migrationTask href="#_nmmZQ2W3EeakJJRWNovuDw"/>
-    <migrationTask xmi:id="_sDrCSGW3EeakJJRWNovuDw" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
-    <migrationTask xmi:id="_sDrCSWW3EeakJJRWNovuDw" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
+    <migrationTask href="#_sDrCSWW3EeakJJRWNovuDw"/>
+    <migrationTask xmi:id="_K3YANGW4Eeac8LHWnQuiTQ" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
+    <migrationTask xmi:id="_K3YANWW4Eeac8LHWnQuiTQ" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
+    <migrationTask xmi:id="_K3YANmW4Eeac8LHWnQuiTQ" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
+    <migrationTask xmi:id="_K3YAN2W4Eeac8LHWnQuiTQ" id="org.talend.repository.model.migration.RemoveBinFolderMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
+    <migrationTask xmi:id="_K3YAOGW4Eeac8LHWnQuiTQ" id="org.talend.repository.model.migration.UpdateExistentMigrationTasksToAdaptNewMigrationSystemMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
+    <migrationTask xmi:id="_K3YAOWW4Eeac8LHWnQuiTQ" id="org.talend.mdm.repository.core.migrate.UpdateViewObjectPathMT" breaks="5.1.1" version="5.1.2" status="ok"/>
+    <migrationTask xmi:id="_K3YAOmW4Eeac8LHWnQuiTQ" id="org.talend.mdm.repository.core.migrate.UpdateProcessObjectPathMT" breaks="5.1.1" version="5.1.2" status="ok"/>
+    <migrationTask xmi:id="_K3YAO2W4Eeac8LHWnQuiTQ" id="org.talend.designer.core.ui.preferences.migration.ChangeMysqlVersionForProjectSetting" breaks="5.2.0" version="5.1.3" status="noimpact"/>
+    <migrationTask xmi:id="_K3YAPGW4Eeac8LHWnQuiTQ" id="org.talend.designer.core.ui.preferences.migration.ChangeOracleVersionForProjectSetting" breaks="5.2.0" version="5.2.1" status="noimpact"/>
+    <migrationTask xmi:id="_K3YAPWW4Eeac8LHWnQuiTQ" id="org.talend.repository.hadoopcluster.model.migration.MoveHDFSAndHCatalogToHadoopFolderMigrationTask" breaks="5.3.0" version="5.3.0" status="ok"/>
+    <migrationTask xmi:id="_K3YAPmW4Eeac8LHWnQuiTQ" id="org.talend.repository.model.migration.RemoveRoutineJarDependencyTask" breaks="5.4.1" version="5.4.2" status="noimpact"/>
+    <migrationTask xmi:id="_K3YAP2W4Eeac8LHWnQuiTQ" id="org.talend.repository.model.migration.ChangePostgresDbVersionForProjectSetting" breaks="5.4.1" version="5.4.2" status="noimpact"/>
+    <migrationTask xmi:id="_K3YAQGW4Eeac8LHWnQuiTQ" id="org.talend.repository.model.migration.EncryptPasswordInProjectSettingsMigrationTask" breaks="5.4.1" version="5.4.3" status="ok"/>
+    <migrationTask xmi:id="_K3YAQWW4Eeac8LHWnQuiTQ" id="org.talend.repository.model.migration.UnifyPasswordEncryption4ProjectSettingsMigrationTask" breaks="5.6.0" version="5.6.0" status="ok"/>
+    <migrationTask xmi:id="_K3YAQmW4Eeac8LHWnQuiTQ" id="org.talend.repository.model.migration.ChangeComponentSettingNameMigrationTask" breaks="5.5.2" version="5.6.2" status="ok"/>
+    <migrationTask xmi:id="_K3YAQ2W4Eeac8LHWnQuiTQ" id="org.talend.repository.model.migration.RemoveRoutineAntlrJarDependencyTask" breaks="6.0.0" version="6.0.1" status="noimpact"/>
+    <migrationTask xmi:id="_K3YARGW4Eeac8LHWnQuiTQ" id="org.talend.mdm.repository.core.migrate.RemoveRefNameMT" breaks="6.0.0" version="6.0.0" status="noimpact"/>
+    <migrationTask xmi:id="_K3YARWW4Eeac8LHWnQuiTQ" id="org.talend.repository.model.migration.RemoveProjectLibsFolder" breaks="6.0.0" version="6.0.1" status="noimpact"/>
+    <migrationTask xmi:id="_K3YARmW4Eeac8LHWnQuiTQ" id="org.talend.designer.maven.ui.ConfigMavenRepositoryRemove" breaks="6.0.1" version="6.0.2" status="ok"/>
+    <migrationTask xmi:id="_K3YAR2W4Eeac8LHWnQuiTQ" id="org.talend.mdm.repository.core.migrate.UpdateOperatorMigrationTask" breaks="6.2.0" version="6.2.0" status="ok"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_uQUGIE_oEeaBX7nIEKGP0g" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
   <TalendProperties:ProjectReference xmi:id="_uQUGIU_oEeaBX7nIEKGP0g" project="_uQTfEU_oEeaBX7nIEKGP0g" branch="master" referencedBranch="branches/branch1">
