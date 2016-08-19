@@ -42,7 +42,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="PB+/JPkau8wp5xMJllgdx8831o0XE1Y8TL2CeD12rj0ULuOc1nfc71604FQV7fXunZtiRFWxcT4Aj3NAcYhMl50WfTLLUldnVuZGYYU/A/+Lt6hMysbfm5QP4yinE4aouYqwTxFsqEo=" show="false"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="A2JqRb9F6Tpq5UFVPRNnaLXHGVdzh1NYAFb4X+1AJ160pqKQp9YbS69Rs/lkpzehUPtYBDMzXlAG4TGr+AF5fbTg7x4HoRtJ4eXu8DcCMYHCTrxaCS2TVk7xBVoZmLJkeUgEexf+6VgInQUv5CNvfUc+ZcOp/CR+85RVG47GJAbSCHfgxU3N9UAGmz6xflDaEncrypt" show="false"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
@@ -77,7 +77,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;&quot;" show="false"/>
-    <elementParameter field="PASSWORD" name="PASS" value="PB+/JPkau8wp5xMJllgdx8831o0XE1Y8TL2CeD12rj0ULuOc1nfc71604FQV7fXunZtiRFWxcT4Aj3NAcYhMl50WfTLLUldnVuZGYYU/A/+Lt6hMysbfm5QP4yinE4aouYqwTxFsqEo=" show="false"/>
+    <elementParameter field="PASSWORD" name="PASS" value="A2JqRb9F6Tpq5UFVPRNnaLXHGVdzh1NYAFb4X+1AJ160pqKQp9YbS69Rs/lkpzehUPtYBDMzXlAG4TGr+AF5fbTg7x4HoRtJ4eXu8DcCMYHCTrxaCS2TVk7xBVoZmLJkeUgEexf+6VgInQUv5CNvfUc+ZcOp/CR+85RVG47GJAbSCHfgxU3N9UAGmz6xflDaEncrypt" show="false"/>
     <elementParameter field="FILE" name="DBFILE" value="&quot;&quot;" show="false"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" value="&quot;&quot;" show="false"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" value="&quot;&quot;" show="false"/>
