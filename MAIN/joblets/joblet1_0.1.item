@@ -43,7 +43,7 @@
       <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
       <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
       <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
-      <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="x9dWKk6NL46L8/uvM9THT33EN5o61+5SG92GbA5m2vnoQANI4l9v9eiwIroF+rM9/eBNgT1IAZ0rNduhS6rQtHtR01PuTC+W4tWqNll5YUkrVFN+UalNc/xbv8Kq+gnf9PeroXRnhOo=Encrypt" show="false"/>
+      <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="PB+/JPkau8wp5xMJllgdx8831o0XE1Y8TL2CeD12rj0ULuOc1nfc71604FQV7fXunZtiRFWxcT4Aj3NAcYhMl50WfTLLUldnVuZGYYU/A/+Lt6hMysbfm5QP4yinE4aouYqwTxFsqEo=" show="false"/>
       <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
       <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
       <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" value="&quot;&quot;" show="false"/>
