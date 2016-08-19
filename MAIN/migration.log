@@ -1826,3 +1826,6 @@
  * Task [Update tMelissaDataAddress to add a GeoCodeResult column and an advanced parameter] : Applied successfully
  * Task [AutoUpdateRelationsMigrationTask] : Applied successfully
  ---=== End of migration ===---
+ ---=== Start Migration of project main ===---
+ * Task [Remove routine folder] : Nothing to do
+ * Task [Change xmi serialization] : Nothing to do
