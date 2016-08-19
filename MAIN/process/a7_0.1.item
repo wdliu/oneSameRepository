@@ -119,7 +119,7 @@
     <elementParameter field="TEXT" name="DBNAME" value="&quot;test&quot;"/>
     <elementParameter field="TEXT" name="TYPE" value="MYSQL" show="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;root&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" value="TkdqYn6s79AjfdE40Jw0UZmSimX+cuiAppg9cbdQn0A="/>
+    <elementParameter field="PASSWORD" name="PASS" value="8XxOJRKUUr+6jB3L4glKvdBmjRrg/Fbn93DFzO85ypLx1sjFoGat3w3G+TP/ZW5VEncrypt"/>
     <elementParameter field="TECHNICAL" name="SCHEMA:SCHEMA_TYPE" value="REPOSITORY" show="false"/>
     <elementParameter field="TECHNICAL" name="SCHEMA:REPOSITORY_SCHEMA_TYPE" value="_TmIVsGQkEea_lYAxCR_MeA - test" show="false"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;test&quot;"/>
