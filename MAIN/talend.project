@@ -1470,9 +1470,12 @@
     <migrationTask xmi:id="_DFHSbWBeEeaYL8o3ZyySqQ" id="org.talend.repository.model.migration.RemoveRoutineAntlrJarDependencyTask" breaks="6.0.0" version="6.0.1" status="noimpact"/>
     <migrationTask xmi:id="_DFHSbmBeEeaYL8o3ZyySqQ" id="org.talend.repository.model.migration.RemoveProjectLibsFolder" breaks="6.0.0" version="6.0.1" status="noimpact"/>
     <migrationTask xmi:id="_DFHSb2BeEeaYL8o3ZyySqQ" id="org.talend.designer.maven.ui.ConfigMavenRepositoryRemove" breaks="6.0.1" version="6.0.2" status="ok"/>
-    <migrationTask xmi:id="_jCHdsGBiEeaNs4nyY_yUWA" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_jCHdsWBiEeaNs4nyY_yUWA" id="org.talend.repository.model.migration.UpdateELTComponentMigrationTask" breaks="6.1.1" version="6.1.2" status="noimpact"/>
     <migrationTask xmi:id="_jCHdsmBiEeaNs4nyY_yUWA" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
+    <migrationTask xmi:id="_nmmZQGW3EeakJJRWNovuDw" id="org.talend.mdm.repository.core.migrate.UpdateViewObjectPathMT" breaks="5.1.1" version="5.1.2" status="ok"/>
+    <migrationTask xmi:id="_nmmZQWW3EeakJJRWNovuDw" id="org.talend.mdm.repository.core.migrate.UpdateProcessObjectPathMT" breaks="5.1.1" version="5.1.2" status="ok"/>
+    <migrationTask xmi:id="_nmmZQmW3EeakJJRWNovuDw" id="org.talend.mdm.repository.core.migrate.RemoveRefNameMT" breaks="6.0.0" version="6.0.0" status="noimpact"/>
+    <migrationTask xmi:id="_nmmZQ2W3EeakJJRWNovuDw" id="org.talend.mdm.repository.core.migrate.UpdateOperatorMigrationTask" breaks="6.2.0" version="6.2.0" status="ok"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_uQUGIE_oEeaBX7nIEKGP0g" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
   <TalendProperties:ProjectReference xmi:id="_uQUGIU_oEeaBX7nIEKGP0g" project="_uQTfEU_oEeaBX7nIEKGP0g" branch="master" referencedBranch="branches/branch1">
