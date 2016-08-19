@@ -21,12 +21,12 @@
       <feature xsi:type="relational:TdColumn" xmi:id="_tGU1o2QoEea_lYAxCR_MeA" name="user" label="user" length="20" sourceType="VARCHAR" talendType="id_String">
         <taggedValue xmi:id="_tGU1pGQoEea_lYAxCR_MeA" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_tGU1pWQoEea_lYAxCR_MeA" language="COLUMN_DEF"/>
-        <sqlDataType xmi:id="_EDEvAGW6EeaiN9m1trwlEA" name="NULL"/>
+        <sqlDataType xmi:id="_dR1BAGW7EeaplrfxhiySJg" name="NULL"/>
       </feature>
       <feature xsi:type="relational:TdColumn" xmi:id="_tGU1p2QoEea_lYAxCR_MeA" name="password" label="password" length="20" sourceType="VARCHAR" talendType="id_String">
         <taggedValue xmi:id="_tGU1qGQoEea_lYAxCR_MeA" tag="Comment" value=""/>
         <initialValue xsi:type="relational:TdExpression" xmi:id="_tGU1qWQoEea_lYAxCR_MeA" language="COLUMN_DEF"/>
-        <sqlDataType xmi:id="_EDEvAWW6EeaiN9m1trwlEA" name="NULL"/>
+        <sqlDataType xmi:id="_dR1BAWW7EeaplrfxhiySJg" name="NULL"/>
       </feature>
     </ownedElement>
   </orgomg.cwm.resource.relational:Catalog>
