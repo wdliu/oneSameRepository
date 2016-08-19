@@ -1481,3 +1481,10 @@
  * Task [Remove routine dependency on talend jars] : Nothing to do
  * Task [ChangePostgresDbVersionForProjectSetting] : Nothing to do
  * Task [Encrypt passwords in new password fields of project settings implicit context load and stats logs] : Applied successfully
+ * Task [UnifyPasswordEncryption4ProjectSettingsMigrationTask] : Applied successfully
+ * Task [ChangeComponentSettingNameMigrationTask] : Applied successfully
+ * Task [Remove routine dependency on antlr-3.3 jars] : Nothing to do
+ * Task [Remove MDM Reference Item Name] : Nothing to do
+ * Task [RemoveProjectLibsFolder] : Nothing to do
+ * Task [RemoveConfigMavenRepository] : Applied successfully
+ * Task [Update Operator MigrationTask] : Applied successfully
