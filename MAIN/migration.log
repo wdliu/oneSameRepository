@@ -1839,3 +1839,4 @@
  * Task [MoveHDFSAndHCatalogToHadoopFolderMigrationTask] : Applied successfully
  * Task [Remove routine dependency on talend jars] : Nothing to do
  * Task [ChangePostgresDbVersionForProjectSetting] : Nothing to do
+ * Task [Encrypt passwords in new password fields of project settings implicit context load and stats logs] : Applied successfully
