@@ -35,7 +35,7 @@
         <elementParameter xmi:id="_qmQMMGRVEeakG7kBWeI9hw" field="TEXT" name="PROPERTIES" value="&quot;&quot;" contextMode="false"/>
         <elementParameter xmi:id="_qmQMMWRVEeakG7kBWeI9hw" field="TEXT" name="SCHEMA_DB" value="&quot;&quot;" contextMode="false"/>
         <elementParameter xmi:id="_qmQMMmRVEeakG7kBWeI9hw" field="TEXT" name="USER" value="&quot;&quot;" contextMode="false"/>
-        <elementParameter xmi:id="_qmQzMGRVEeakG7kBWeI9hw" field="PASSWORD" name="PASS" value="zCVzi4AequQgXEUXi4Xjj3HW8EXOg1O44z1LchYtXlA2Cs1nx8epSGQM0Q7wEhkA" contextMode="false"/>
+        <elementParameter xmi:id="_qmQzMGRVEeakG7kBWeI9hw" field="PASSWORD" name="PASS" value="5pxOMwJHCpYyy4dNy1KVF761WmFzuGIuZKDpvlSZRW2PXZMKUfEcNWgzeOC3V9wZRTtDGNikdCj0Paw2Ee9olagugg/WlM+w" contextMode="false"/>
         <elementParameter xmi:id="_qmQzMWRVEeakG7kBWeI9hw" field="FILE" name="DBFILE" value="&quot;&quot;" contextMode="false"/>
         <elementParameter xmi:id="_qmQzMmRVEeakG7kBWeI9hw" field="DBTABLE" name="TABLE_STATS" value="&quot;&quot;" contextMode="false"/>
         <elementParameter xmi:id="_qmQzM2RVEeakG7kBWeI9hw" field="DBTABLE" name="TABLE_LOGS" value="&quot;&quot;" contextMode="false"/>
@@ -68,7 +68,7 @@
         <elementParameter xmi:id="_qmRaRGRVEeakG7kBWeI9hw" field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
         <elementParameter xmi:id="_qmRaRWRVEeakG7kBWeI9hw" field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
         <elementParameter xmi:id="_qmRaRmRVEeakG7kBWeI9hw" field="TEXT" name="USER_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
-        <elementParameter xmi:id="_qmRaR2RVEeakG7kBWeI9hw" field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="zCVzi4AequQgXEUXi4Xjj3HW8EXOg1O44z1LchYtXlA2Cs1nx8epSGQM0Q7wEhkA" contextMode="false"/>
+        <elementParameter xmi:id="_qmRaR2RVEeakG7kBWeI9hw" field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="5pxOMwJHCpYyy4dNy1KVF761WmFzuGIuZKDpvlSZRW2PXZMKUfEcNWgzeOC3V9wZRTtDGNikdCj0Paw2Ee9olagugg/WlM+w" contextMode="false"/>
         <elementParameter xmi:id="_qmRaSGRVEeakG7kBWeI9hw" field="FILE" name="DBFILE_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
         <elementParameter xmi:id="_qmRaSWRVEeakG7kBWeI9hw" field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
         <elementParameter xmi:id="_qmRaSmRVEeakG7kBWeI9hw" field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
@@ -2339,7 +2339,6 @@
     <migrationTask href="#_rHUqqmXjEean_ODT7cB_GQ"/>
     <migrationTask href="#_rHUqq2XjEean_ODT7cB_GQ"/>
     <migrationTask href="#_rHUqrGXjEean_ODT7cB_GQ"/>
-    <migrationTask xmi:id="_Cz5l62qCEeaXcpucou5dCg" id="org.talend.repository.model.migration.FixProjectResourceLink" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_Cz5l7GqCEeaXcpucou5dCg" id="org.talend.datacleansing.core.migration.UpdateTMultiPatternCheckTask" breaks="5.6.0" version="5.6.0" status="ok"/>
     <migrationTask xmi:id="_Cz5l7WqCEeaXcpucou5dCg" id="org.talend.datacleansing.core.migration.UpdateTmatchGroupQualityTask" breaks="5.6.0" version="5.6.0" status="ok"/>
     <migrationTask xmi:id="_Cz5l7mqCEeaXcpucou5dCg" id="org.talend.mdm.workbench.serverexplorer.migration.UnifyPasswordEncryption4MDMServerDefMigrationTask" breaks="6.0.0" version="6.0.0" status="noimpact"/>
@@ -2349,6 +2348,22 @@
     <migrationTask xmi:id="_Cz5l8mqCEeaXcpucou5dCg" id="org.talend.datacleansing.core.migration.UpdateTmatchGroupMRParamTask" breaks="6.2.2" version="6.2.2" status="ok"/>
     <migrationTask xmi:id="_Cz5l82qCEeaXcpucou5dCg" id="org.talend.datacleansing.core.migration.UpdatetMelissaDataAddressTask" breaks="6.3.0" version="6.3.0" status="ok"/>
     <migrationTask xmi:id="_Cz5l9GqCEeaXcpucou5dCg" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
+    <migrationTask xmi:id="_iYZGcGqCEeaEqMdlEaeAkQ" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
+    <migrationTask xmi:id="_iYZtgGqCEeaEqMdlEaeAkQ" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
+    <migrationTask xmi:id="_iYZtgWqCEeaEqMdlEaeAkQ" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
+    <migrationTask xmi:id="_iYZtgmqCEeaEqMdlEaeAkQ" id="org.talend.repository.model.migration.RemoveBinFolderMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
+    <migrationTask xmi:id="_iYZtg2qCEeaEqMdlEaeAkQ" id="org.talend.repository.model.migration.UpdateExistentMigrationTasksToAdaptNewMigrationSystemMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
+    <migrationTask xmi:id="_iYZthGqCEeaEqMdlEaeAkQ" id="org.talend.designer.core.ui.preferences.migration.ChangeMysqlVersionForProjectSetting" breaks="5.2.0" version="5.1.3" status="noimpact"/>
+    <migrationTask xmi:id="_iYZthWqCEeaEqMdlEaeAkQ" id="org.talend.designer.core.ui.preferences.migration.ChangeOracleVersionForProjectSetting" breaks="5.2.0" version="5.2.1" status="noimpact"/>
+    <migrationTask xmi:id="_iYZthmqCEeaEqMdlEaeAkQ" id="org.talend.repository.hadoopcluster.model.migration.MoveHDFSAndHCatalogToHadoopFolderMigrationTask" breaks="5.3.0" version="5.3.0" status="ok"/>
+    <migrationTask xmi:id="_iYZth2qCEeaEqMdlEaeAkQ" id="org.talend.repository.model.migration.RemoveRoutineJarDependencyTask" breaks="5.4.1" version="5.4.2" status="noimpact"/>
+    <migrationTask xmi:id="_iYZtiGqCEeaEqMdlEaeAkQ" id="org.talend.repository.model.migration.ChangePostgresDbVersionForProjectSetting" breaks="5.4.1" version="5.4.2" status="noimpact"/>
+    <migrationTask xmi:id="_iYZtiWqCEeaEqMdlEaeAkQ" id="org.talend.repository.model.migration.EncryptPasswordInProjectSettingsMigrationTask" breaks="5.4.1" version="5.4.3" status="ok"/>
+    <migrationTask xmi:id="_iYZtimqCEeaEqMdlEaeAkQ" id="org.talend.repository.model.migration.UnifyPasswordEncryption4ProjectSettingsMigrationTask" breaks="5.6.0" version="5.6.0" status="ok"/>
+    <migrationTask xmi:id="_iYZti2qCEeaEqMdlEaeAkQ" id="org.talend.repository.model.migration.ChangeComponentSettingNameMigrationTask" breaks="5.5.2" version="5.6.2" status="ok"/>
+    <migrationTask xmi:id="_iYZtjGqCEeaEqMdlEaeAkQ" id="org.talend.repository.model.migration.RemoveRoutineAntlrJarDependencyTask" breaks="6.0.0" version="6.0.1" status="noimpact"/>
+    <migrationTask xmi:id="_iYZtjWqCEeaEqMdlEaeAkQ" id="org.talend.repository.model.migration.RemoveProjectLibsFolder" breaks="6.0.0" version="6.0.1" status="noimpact"/>
+    <migrationTask xmi:id="_iYZtjmqCEeaEqMdlEaeAkQ" id="org.talend.designer.maven.ui.ConfigMavenRepositoryRemove" breaks="6.0.1" version="6.0.2" status="ok"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_uQUGIE_oEeaBX7nIEKGP0g" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
   <TalendProperties:ProjectReference xmi:id="_uQUGIU_oEeaBX7nIEKGP0g" project="_uQTfEU_oEeaBX7nIEKGP0g" branch="master" referencedBranch="branches/branch1">
